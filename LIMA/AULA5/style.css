@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aqua;
+    font-size: 30px;
+    margin: 30x;
+    line-height: 1.5x;
+}
+h2 {
+    font-family: Roboto;
+}
+.seletor{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}

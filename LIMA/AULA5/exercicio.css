@@ -1,0 +1,21 @@
+body {
+    front-family: 'Times New Roman', Times, serif;
+    line-height: 15px;
+}
+
+header {
+    front-family: 'Time New Roman', Times, serif;
+    line-height: 15px;
+    test-align: center;
+    padding-top: 30px;
+}
+
+nav a {
+    background-color: aqua;
+    front-family: Veradna, gebeva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+selection {
+    background-color: aliceblue;
+    front-family:
+}
